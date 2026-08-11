@@ -1,22 +1,25 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import strengthImg from '../assets/images/strength.png';
+import cardioImg from '../assets/images/cardio.png';
+import aboutImg from '../assets/images/about-gym.png';
 
 const Facilities = () => {
   const facilitiesData = [
     {
       title: "Strength & Free Weights Zone",
       desc: "Equipped with heavy dumbbells, squat racks, and premium weightlifting platforms.",
-      img: "/images/strength.png"
+      img: strengthImg
     },
     {
       title: "Cardio Deck",
       desc: "Modern treadmills, ellipticals, and bikes to keep your heart rate up and burn calories.",
-      img: "/images/cardio.png"
+      img: cardioImg
     },
     {
       title: "Spacious Training Floor",
       desc: "A wide, ventilated environment ensuring you have enough personal space for functional training.",
-      img: "/images/about-gym.png"
+      img: aboutImg
     }
   ];
 
@@ -47,7 +50,7 @@ const Facilities = () => {
               
               <div style={{ flex: '1 1 400px' }}>
                 <img 
-                  src={facility.img} 
+              src={`/Karnataka_gym_project${facility.img}`} 
                   alt={facility.title} 
                   style={{ width: '100%', height: '100%', objectFit: 'cover', minHeight: '300px' }}
                 />

@@ -1,6 +1,7 @@
 import React from 'react';
 import { CheckCircle } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import aboutImage from '../assets/images/about-gym.png';
 
 const About = () => {
   return (
@@ -38,7 +39,7 @@ const About = () => {
 
           <div style={{ flex: '1 1 400px' }}>
             <img 
-              src="/images/about-gym.png" 
+              src={aboutImage} 
               alt="Karnataka Gym Training Floor" 
               style={{ width: '100%', borderRadius: 'var(--border-radius-lg)', boxShadow: '0 20px 40px rgba(0,0,0,0.5)', border: '1px solid var(--color-bg-tertiary)' }}
             />

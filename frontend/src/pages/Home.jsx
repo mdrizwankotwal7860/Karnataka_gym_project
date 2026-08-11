@@ -2,6 +2,8 @@ import React from 'react';
 import { Star, MapPin, Clock, CheckCircle, Dumbbell, Shield, HeartPulse } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
+import heroImage from '../assets/images/about-gym.png';
+
 const Home = () => {
   return (
     <div>
@@ -12,7 +14,10 @@ const Home = () => {
         minHeight: '80vh',
         display: 'flex',
         alignItems: 'center',
-        background: 'linear-gradient(rgba(10, 10, 10, 0.8), rgba(10, 10, 10, 0.95)), url("https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=2070&auto=format&fit=crop") center/cover no-repeat'
+        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url(${heroImage})`,
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        backgroundRepeat: 'no-repeat'
       }}>
         <div className="container" style={{ position: 'relative', zIndex: 10 }}>
           <div style={{ maxWidth: '800px' }}>
