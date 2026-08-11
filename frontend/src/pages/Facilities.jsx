@@ -50,7 +50,7 @@ const Facilities = () => {
               
               <div style={{ flex: '1 1 400px' }}>
                 <img 
-              src={`/Karnataka_gym_project${facility.img}`} 
+                  src={facility.img} 
                   alt={facility.title} 
                   style={{ width: '100%', height: '100%', objectFit: 'cover', minHeight: '300px' }}
                 />
