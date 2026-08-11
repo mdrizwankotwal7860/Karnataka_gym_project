@@ -1,0 +1,877 @@
+FULL-STACK WEBSITE / WEB APPLICATION PROMPT
+Karnataka Gym || Hubballi
+ROLE
+Act simultaneously as:
+Senior Product Manager
+Senior UI/UX Designer
+Brand Designer
+UX Researcher
+Full-Stack Web Developer
+Frontend Engineer
+Backend Engineer
+Database Architect
+System Design Engineer
+SEO Specialist
+Accessibility Specialist
+Performance Engineer
+Security Engineer
+Conversion Rate Optimization Specialist
+Your job is to design and develop a production-quality, premium gym website/web application for:
+Karnataka Gym || Hubballi
+Google Maps business listing:
+[https://www.google.com/maps/place/Karnataka+Gym+%7C%7C+Hubballi/@15.3644232,75.1135548,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d708f117617d:0x2a22fa11378087fa!8m2!3d15.3644232!4d75.1135548!16s%2Fg%2F11g04q4gt2?entry=ttu&g_ep=EgoyMDI2MDgwNS4xIKXMDSoASAFQAw%3D%3D]
+The website must look like a real commercial product that can be presented directly to the gym owner.
+It must NOT look like an AI-generated template, student project, generic gym landing page, or copied fitness website.
+
+1. BUSINESS RESEARCH FIRST
+Before writing the website code, analyze the provided Google Maps listing and publicly available information about the business.
+Use verified information wherever possible.
+Currently identified information includes:
+Business: Karnataka Gym || Hubballi
+Category: Gym / Fitness Center
+Location: Kalidas Nagar, Hubballi, Karnataka
+Publicly listed phone: +91 99026 67407
+Publicly listed hours: approximately 6:00 AM–9:00 PM
+Strong Google review presence
+Public reviews mention:
+Experienced/friendly trainers
+Good equipment
+Spacious environment
+Hygiene
+Workout guidance
+Diet guidance
+Separate/appropriate training support for different members
+IMPORTANT:
+Do not blindly trust the information above.
+Verify information against the latest available public sources before putting it into the final website.
+
+2. DO NOT INVENT BUSINESS INFORMATION
+This is mandatory.
+Never invent:
+Membership prices
+Trainer names
+Trainer qualifications
+Awards
+Number of members
+Number of years in business
+Certifications
+Gym equipment brands
+Opening hours
+Phone numbers
+Email addresses
+Social media accounts
+Services
+Classes
+Testimonials
+Before/after transformations
+Results
+Offers
+Discounts
+If information is not verified:
+Either omit it or use a clearly identifiable placeholder.
+Do not create fake testimonials.
+Do not create fake statistics such as:
+"10,000+ members"
+"20+ expert trainers"
+"15 years experience"
+unless verified.
+
+3. PRODUCT OBJECTIVE
+The website is not simply an online brochure.
+The main product goal is:
+Generate gym membership enquiries.
+Secondary goals:
+Trial-session enquiries
+Personal-training enquiries
+WhatsApp enquiries
+Phone calls
+Directions to the gym
+Service discovery
+Trust building
+Local Google search conversion
+Primary user journey:
+Google Search / Google Maps
+↓
+Gym Website
+↓
+Understand the gym
+↓
+See facilities/services
+↓
+Build trust
+↓
+See membership/trial CTA
+↓
+Contact gym
+↓
+Visit gym
+↓
+Become member
+
+4. TARGET USERS
+Design for:
+Primary
+Local people looking for a gym
+Beginners
+Existing gym users
+Students
+Working professionals
+Men and women looking for fitness facilities
+People searching Google Maps for nearby gyms
+Secondary
+People interested in personal training
+People looking for workout/diet guidance
+People comparing gyms in Hubballi
+Do not stereotype customers.
+
+5. BRAND POSITIONING
+Create the brand around:
+Strength + Trust + Discipline + Community + Professional Fitness
+The design should communicate:
+Serious fitness environment
+Clean facility
+Professional training
+Motivation
+Confidence
+Local trust
+Accessibility
+Avoid an overly aggressive "bodybuilding-only" aesthetic unless supported by the actual business.
+
+6. VISUAL DESIGN SYSTEM
+Create a complete design system before implementing pages.
+Define:
+Typography
+Use a modern, highly readable font combination.
+Use strong typography for:
+Hero heading
+Section headings
+CTAs
+Membership cards
+Use readable typography for:
+Descriptions
+FAQs
+Contact information
+Colors
+Create a premium fitness-oriented color system.
+Suggested direction:
+Dark foundation
+Strong accent color
+White/light text
+Subtle neutral surfaces
+Do not blindly copy these colors.
+Choose the palette based on available gym branding, photos, logo, and visual identity.
+UI STYLE
+Use:
+Strong typography
+Clean spacing
+Premium cards
+Subtle borders
+High-quality imagery
+Controlled shadows
+Smooth hover states
+Small purposeful animations
+Strong CTA hierarchy
+Avoid:
+Excessive gradients
+Excessive glassmorphism
+Random animations
+Huge rounded cards
+Overloaded layouts
+Generic stock fitness imagery
+
+7. HOMEPAGE
+Design the homepage as a conversion-focused landing experience.
+HERO
+Immediately communicate:
+Karnataka Gym || Hubballi
+Then a concise value proposition based on verified information.
+Example structure:
+"Train Strong. Train Consistently."
+Followed by a supporting statement about the gym.
+Primary CTA:
+Start Your Fitness Journey
+Secondary CTA:
+Get Directions
+Additional CTA:
+WhatsApp Us
+Only use WhatsApp if a verified WhatsApp number/link exists.
+
+8. HERO VISUAL
+Use authentic gym photography whenever available.
+Prioritize:
+Actual gym photos
+Actual equipment
+Actual training environment
+Actual trainers
+Actual members, with appropriate permission
+High-quality professional imagery
+Do not misrepresent the gym using stock photography.
+If no usable photographs are available, create a visually strong design that does not falsely imply that stock images are photos of Karnataka Gym.
+
+9. TRUST SECTION
+Immediately after the hero, show verified trust signals.
+Possible information:
+Google rating
+Google review count
+Location
+Opening hours
+Key verified strengths
+For example:
+4.9★ Google Rating
+Only use the exact current review count/rating after verification.
+Add:
+Loved by the Hubballi fitness community
+only if the evidence supports this type of wording.
+Do not fabricate statistics.
+
+10. WHY CHOOSE US
+Create a concise value proposition section based on verified reviews and business information.
+Potential themes:
+Experienced Guidance
+If verified.
+Quality Equipment
+If verified.
+Clean & Comfortable Environment
+If verified.
+Workout Guidance
+If verified.
+Diet Guidance
+If verified.
+Spacious Training Environment
+If verified.
+Each benefit should have:
+Icon
+Short heading
+1–2 sentence explanation
+Do not make unsupported claims.
+
+11. SERVICES
+Create a services section.
+Research which services are actually offered.
+Potential categories may include:
+General gym membership
+Strength training
+Weight training
+Cardio
+Personal training
+Workout guidance
+Diet guidance
+Ladies training/batches
+Fitness programs
+ONLY include services that can be verified.
+Each service should have:
+Name
+Short description
+Relevant visual/icon
+CTA
+CTA:
+Enquire Now
+
+12. FACILITIES
+Create a visual facilities section.
+Show actual facilities if available.
+Potential examples:
+Strength equipment
+Cardio equipment
+Free weights
+Training area
+Changing area
+Workout floor
+Other verified facilities
+Do not list equipment that has not been confirmed.
+Use an image-first layout.
+
+13. MEMBERSHIP SECTION
+This is one of the most important sections.
+If verified pricing is available:
+Create professional membership cards.
+Example:
+MONTHLY
+Price
+Features
+Join Now
+QUARTERLY
+Price
+Features
+Join Now
+YEARLY
+Price
+Features
+Join Now
+If pricing is NOT publicly verified:
+Do not invent prices.
+Instead use:
+MEMBERSHIP
+"Choose a membership plan that fits your fitness goals."
+CTA:
+Get Membership Details
+Clicking should open:
+WhatsApp
+Phone
+Enquiry form
+depending on verified contact options.
+
+14. FREE / TRIAL SESSION
+If the gym offers a trial session, create a dedicated CTA.
+Example:
+READY TO GET STARTED?
+"Visit Karnataka Gym and experience the training environment for yourself."
+CTA:
+Book a Trial
+If trial availability is not verified, use:
+Enquire About a Trial
+Do not promise a free trial without verification.
+
+15. LEAD GENERATION FORM
+Create a high-conversion enquiry form.
+Fields:
+Full Name
+Phone Number
+Fitness Goal
+Preferred Contact Method
+Preferred Visit Time
+Message
+Fitness goal options can include:
+Weight Loss
+Muscle Building
+Strength
+General Fitness
+Beginner
+Personal Training
+Other
+Do not ask unnecessary personal information.
+
+16. WHATSAPP LEAD FLOW
+If a verified WhatsApp number exists, create a pre-filled WhatsApp enquiry.
+Example message:
+"Hello Karnataka Gym, I found you on Google and would like to know about membership plans."
+For specific enquiry:
+"Hello Karnataka Gym, I would like to know about your membership options and gym timings."
+Do not hard-code unverified numbers.
+
+17. PHONE CTA
+Create a prominent mobile CTA:
+Call Now
+Use the verified business number.
+Mobile users should be able to call with one tap.
+
+18. LOCATION
+Create a dedicated location section.
+Include:
+Exact verified address
+Google Maps embed/link
+Get Directions button
+Phone
+Opening hours
+The user should be able to go from:
+Website → Directions → Gym
+with minimal friction.
+
+19. OPENING HOURS
+Display verified hours clearly.
+Example structure:
+Monday — 6:00 AM–9:00 PM
+Tuesday — 6:00 AM–9:00 PM
+...
+Use current verified information.
+If Sunday availability differs, show the correct value.
+
+20. GALLERY
+Create a premium gallery.
+Categories:
+Gym
+Equipment
+Training
+Facilities
+Environment
+Use real business photos wherever possible.
+Features:
+Responsive grid
+Lightbox
+Fullscreen viewing
+Lazy loading
+Optimized images
+
+21. REVIEWS
+Create a Google review section.
+Do not manufacture reviews.
+Use either:
+Verified selected reviews
+Google review widget/API if technically and legally appropriate
+Link to Google reviews
+Show:
+Rating
+Review count
+Selected authentic review excerpts
+Do not manipulate reviews.
+
+22. FAQ
+Create an FAQ section based on actual likely customer questions.
+Examples:
+What are the gym timings?
+Where is Karnataka Gym located?
+How can I enquire about membership?
+Does the gym provide workout guidance?
+Does the gym provide diet guidance?
+Do you offer personal training?
+Only include questions whose answers can be verified.
+
+23. ABOUT PAGE
+Create a professional About page.
+Include:
+Business introduction
+Fitness philosophy
+Training environment
+Facilities
+Community
+Location
+Do not invent a founder story or history.
+Keep it authentic.
+
+24. CONTACT PAGE
+Create:
+Contact form
+Phone
+WhatsApp if verified
+Address
+Google Maps
+Opening hours
+Directions
+Keep the page simple.
+The objective is conversion.
+
+25. NAVIGATION
+Desktop navigation:
+Logo
+Home
+About
+Services
+Facilities
+Membership
+Gallery
+Reviews
+Contact
+Primary CTA:
+Join / Enquire
+Mobile navigation:
+Hamburger menu
+Persistent bottom action bar:
+Call | WhatsApp | Directions
+Only include actions for verified contact channels.
+
+26. ADMIN DASHBOARD
+Build the architecture so the business owner can eventually manage the website.
+Admin features:
+Dashboard
+Enquiries
+Membership enquiries
+Contact requests
+Recent activity
+Content
+Business information
+Opening hours
+Services
+Facilities
+FAQs
+Gallery
+Upload image
+Delete image
+Reorder images
+Enquiries
+View enquiry
+Contact customer
+Mark as contacted
+Mark as converted
+Reviews
+Manage approved testimonials if the business manually supplies them
+Do not automatically scrape Google reviews unless using an appropriate official/API-supported method.
+
+27. DATABASE DESIGN
+Design a clean relational database.
+Potential entities:
+admins
+id
+name
+email
+password_hash
+role
+created_at
+business
+id
+name
+description
+phone
+whatsapp
+address
+latitude
+longitude
+google_maps_url
+business_hours
+id
+business_id
+day
+opening_time
+closing_time
+is_closed
+services
+id
+name
+description
+image
+is_active
+display_order
+facilities
+id
+name
+description
+image
+is_active
+display_order
+membership_plans
+id
+name
+price
+duration
+description
+is_active
+Only populate prices after verification.
+gallery
+id
+image_url
+category
+caption
+display_order
+enquiries
+id
+name
+phone
+email
+goal
+preferred_time
+message
+source
+status
+created_at
+faq
+id
+question
+answer
+display_order
+is_active
+Use proper:
+Primary keys
+Foreign keys
+Indexes
+Constraints
+Timestamps
+
+28. SYSTEM ARCHITECTURE
+Use a clean architecture:
+                 USER
+                   |
+                   v
+            Web / Mobile UI
+                   |
+                   v
+             Frontend Layer
+                   |
+                   v
+             API / Backend
+                   |
+          +--------+--------+
+          |                 |
+          v                 v
+      Database          File Storage
+          |
+          v
+    Admin Dashboard
+External integrations where appropriate:
+Google Maps
+WhatsApp
+Google Business / Reviews
+Analytics
+Email / SMS
+Do not integrate external services unless required and properly configured.
+
+29. SECURITY
+Implement:
+Password hashing
+Authentication
+Authorization
+Input validation
+Server-side validation
+SQL injection protection
+XSS protection
+CSRF protection where applicable
+Rate limiting for public forms
+Secure file upload validation
+File size restrictions
+Safe image processing
+Environment variables for secrets
+Never store plaintext admin passwords.
+Never expose API keys in frontend code.
+
+30. SEO
+Optimize for local searches such as:
+Gym in Hubballi
+Gym near Kalidas Nagar
+Fitness center in Hubballi
+Gym near me
+Do not keyword-stuff.
+Implement:
+Semantic HTML
+Title tags
+Meta descriptions
+Open Graph
+Canonical URLs
+Sitemap
+Robots.txt
+LocalBusiness structured data
+FAQ structured data where appropriate
+Proper image alt text
+Use the exact business information from verified sources.
+
+31. PERFORMANCE
+Target excellent performance.
+Requirements:
+Responsive images
+WebP/AVIF where appropriate
+Lazy loading
+Code splitting if framework is used
+Minified assets
+Efficient CSS
+Minimal JavaScript
+Font optimization
+No unnecessary libraries
+Target:
+Fast first load on Indian mobile networks.
+
+32. ACCESSIBILITY
+Follow WCAG principles.
+Include:
+Proper heading hierarchy
+Keyboard navigation
+Focus states
+Accessible forms
+Labels
+Alt text
+Sufficient contrast
+Semantic HTML
+Screen-reader-friendly buttons
+Do not use icons without accessible labels.
+
+33. RESPONSIVE DESIGN
+Design and test:
+Mobile
+360px
+390px
+430px
+Tablet
+768px
+1024px
+Desktop
+1280px
+1440px
+1920px
+No broken layouts.
+No horizontal scrolling.
+No tiny text.
+No inaccessible buttons.
+
+34. CONVERSION STRATEGY
+Every important page should have a clear next action.
+Examples:
+Homepage:
+Join / Enquire
+Services:
+Ask About Membership
+Membership:
+Get Membership Details
+Gallery:
+Visit the Gym
+Contact:
+Call Now
+Location:
+Get Directions
+Do not overwhelm the visitor with ten competing CTAs.
+
+35. MOBILE CONVERSION BAR
+On mobile, consider a sticky bottom bar:
+CALL
+WHATSAPP
+DIRECTIONS
+Only activate actions for verified channels.
+This is especially important because many Google Maps visitors will open the website on mobile.
+
+36. ANALYTICS
+Prepare the website for analytics.
+Track events such as:
+Page view
+Call button click
+WhatsApp click
+Directions click
+Membership enquiry
+Contact form submission
+Trial enquiry
+Service interaction
+Use privacy-conscious analytics.
+
+37. ERROR / EMPTY STATES
+Design professional states for:
+Form submission failure
+Network error
+Empty gallery
+No membership prices available
+Invalid phone number
+Server error
+404 page
+Never display raw technical errors to users.
+
+38. ADMIN UX
+The admin panel should be extremely simple because the gym owner may not be technical.
+Dashboard should answer:
+Today's enquiries
+New leads
+Pending enquiries
+Recent contacts
+Use simple cards and tables.
+Do not create a complicated enterprise dashboard for a small local gym.
+
+39. TECHNOLOGY
+Preferred stack:
+Frontend
+HTML5
+CSS3
+JavaScript
+Optional:
+React / Next.js only if it materially improves the application.
+Backend
+Use a maintainable backend such as:
+Python Flask / FastAPI
+or
+Node.js / Express
+Choose one stack and keep it consistent.
+Database
+MySQL or PostgreSQL.
+Storage
+Local development storage with a production-ready object-storage architecture.
+Deployment
+Design so it can be deployed using:
+Frontend hosting
++
+Backend hosting
++
+Managed database
++
+Object storage
+Keep environment variables separate from source code.
+
+40. CODE QUALITY
+Use:
+Modular architecture
+Reusable components
+Clear naming
+Separation of concerns
+Environment configuration
+Error handling
+Validation
+API versioning where appropriate
+Database migrations
+README documentation
+Do not place the entire application in one giant file.
+
+41. WHAT NOT TO BUILD
+Do NOT add unnecessary features such as:
+E-commerce shop
+Product marketplace
+Complex social network
+Fitness wearable integration
+AI fitness coach
+Online diet marketplace
+Cryptocurrency payments
+Loyalty points
+Complex subscription billing
+unless the business requirements actually justify them.
+The product should solve the gym's real business problem.
+
+42. FINAL WEBSITE EXPERIENCE
+The final experience should feel like:
+Google Maps
+     ↓
+Premium Karnataka Gym Website
+     ↓
+Strong first impression
+     ↓
+Trust / Reviews
+     ↓
+Services & Facilities
+     ↓
+Membership / Trial
+     ↓
+WhatsApp / Call
+     ↓
+Visit Gym
+     ↓
+New Member
+
+43. FINAL DELIVERABLE
+Before finishing, provide:
+Product
+Business objective
+Target users
+User journeys
+Feature list
+MVP scope
+Future scope
+UX/UI
+Sitemap
+Wireframe structure
+Design system
+Responsive layouts
+Component hierarchy
+Engineering
+System architecture
+Database schema
+API structure
+Authentication
+Security
+Error handling
+Deployment architecture
+Website
+Homepage
+About
+Services
+Facilities
+Membership
+Gallery
+Reviews
+FAQ
+Contact
+Location
+Admin
+Dashboard
+Enquiry management
+Content management
+Gallery management
+Business information management
+Quality
+SEO
+Accessibility
+Performance
+Mobile responsiveness
+Security
+Analytics readiness
+
+44. MOST IMPORTANT REQUIREMENT
+Do not build what you THINK a gym should have.
+Build what Karnataka Gym || Hubballi actually needs, based on verified public information.
+Research first.
+Plan second.
+Design third.
+Develop fourth.
+Test fifth.
+Only then present the final website.
+The final website should be good enough that when the gym owner sees it, they can realistically say:
+"This represents my gym professionally, gives customers the information they need, and can actually help me get new enquiries."
+Do not mention that the website was generated from a Google Maps listing.
+Make it look like a professionally commissioned business website.
